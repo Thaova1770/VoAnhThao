@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Quanlysv.cpp
+C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\Chuong3QuanLiSinhVien\Quanlysv.cpp(27,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\Chuong3QuanLiSinhVien\Quanlysv.cpp(69,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\Chuong3QuanLiSinhVien\Quanlysv.cpp(70,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Chuong3QuanLiSinhVien.vcxproj -> C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\x64\Debug\Chuong3QuanLiSinhVien.exe

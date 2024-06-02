@@ -1,0 +1,7 @@
+﻿  PhongHoc.cpp
+  PhongLyThuyet.cpp
+  PhongThiNghiem.cpp
+  TestMain.cpp
+C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\QuanLyPhongHoc\TestMain.cpp(101,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  QuanLyPhongHoc.vcxproj -> C:\Baitaplaptrinhhuongdoituong\50_VoAnhThao\x64\Debug\QuanLyPhongHoc.exe
